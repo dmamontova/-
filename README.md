@@ -1,4 +1,4 @@
-![image](https://github.com/dmamontova/-/assets/121117316/9d59e265-387c-4c55-8dba-7a82259aed72)
+![image](https://github.com/dmamontova/andan-project/assets/121117316/8052d70c-b2cf-43fb-bf55-9c0a444957f8)
 # Привет мой единственный читатель! 
 ### Над этим проектом кровью и потом трудились:
 - Старощук Богдан

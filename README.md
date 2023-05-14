@@ -25,5 +25,5 @@ https://datatopics.worldbank.org/world-development-indicators/the-world-by-incom
 
 # 2. EDA
 
-
+[карта](https://colab.research.google.com/drive/1LG5-WteBm-5H1yCGECPxFjIdi5Dc9Kt4?usp=sharing)
 --Рассказать о всякой штуке, где че лежит в репозитории--

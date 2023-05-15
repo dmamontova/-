@@ -29,13 +29,13 @@ https://datatopics.worldbank.org/world-development-indicators/the-world-by-incom
 
 Теперь подробнее:
 
-[EDA I](https://github.com/dmamontova/andan-project/blob/main/EDA/EDA%20I.ipynb). В этом файле была проведена первичная предобработка данных: описание переменных, анализ таблицы на пропуски и их заполнение.
+[EDA I](https://github.com/dmamontova/andan-project/blob/all-work_main/EDA/EDA%20I.ipynb). В этом файле была проведена первичная предобработка данных: описание переменных, анализ таблицы на пропуски и их заполнение.
 
-[EDA II.1](https://github.com/dmamontova/andan-project/blob/main/EDA/EDA%20II.1.ipynb) Здесь мы рассмотрели определённые категориальные переменные в отдельности, построили визуализации для них.
+[EDA II.1](https://github.com/dmamontova/andan-project/blob/all-work_main/EDA/EDA%20II.1.ipynb) Здесь мы рассмотрели определённые категориальные переменные в отдельности, построили визуализации для них.
 
-[EDA II.2](https://github.com/dmamontova/andan-project/blob/main/EDA/EDA%20II.2.ipynb) В этой части были рассмотрены внутренние связи между категориальными переменными
+[EDA II.2](https://github.com/dmamontova/andan-project/blob/all-work_main/EDA/EDA%20II.2.ipynb) В этой части были рассмотрены внутренние связи между категориальными переменными
 
-[EDA III](https://github.com/dmamontova/andan-project/blob/main/EDA/EDA%20III.ipynb) Завершающий этап, с рассмотрением числовых переменых и визуализацией
+[EDA III](https://github.com/dmamontova/andan-project/blob/all-work_main/EDA/EDA%20III.ipynb) Завершающий этап, с рассмотрением числовых переменых и визуализацией
 
 # 3. Гипотезы и машинное обучение
 

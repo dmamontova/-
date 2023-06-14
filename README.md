@@ -24,7 +24,7 @@
 [Предобработка данных](https://github.com/dmamontova/andan-project/blob/project_main/parsing/final_predobr.ipynb). Немного поработали с тем, чтобы привести все полученные данные в аккуратный вид. На выходе мы получили [таблицу](https://drive.google.com/file/d/1O3jwPG2JOHn5F90vUD4X7JsYtyZNSIrM/view?usp=share_link), с которой будем работать на дальнейших этапах. 
 > Она достаточная большая, поэтому по ссылке залита на диск
 
-И теперь сперва, неплохо было бы покапаться в наших данных и понять, что они из себя представляют.
+И теперь,сперва, неплохо было бы покапаться в наших данных и понять, что они из себя представляют.
 
 
 # 2. [EDA](https://github.com/dmamontova/andan-project/tree/all-work_main/EDA)

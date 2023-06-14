@@ -14,7 +14,7 @@
 
 
 # 1. [Парсинг](https://github.com/dmamontova/andan-project/tree/all-work_main/parsing)
----
+
 Для получения данных об индексе человеческого развития и экономической классификации стран за интересующий период, мы запарсили следующие сайты с необходимой информацией: 
 https://countryeconomy.com/hdi?year=1997 - HDI, 
 https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html - данные об экономической классификации
@@ -26,7 +26,7 @@ https://datatopics.worldbank.org/world-development-indicators/the-world-by-incom
 
 
 # 2. [EDA](https://github.com/dmamontova/andan-project/tree/all-work_main/EDA)
---- 
+
 
 На этом этапе мы разделили всю работу на несколько частей.
 
@@ -49,14 +49,14 @@ https://datatopics.worldbank.org/world-development-indicators/the-world-by-incom
 Теперь, когда мы потрогали данные, можно выдвинуть определённые гипотезы, проверка которых пригодится на следующих этапах.
 
 # 4. [Проверка гипотез](https://github.com/dmamontova/andan-project/blob/all-work_main/Hypotheses.ipynb)
----
+
 
 В первую очередь нас интересовали гипотезы, которые как-либо связанными с целевыми переменным: Index и Classification. Мы рассмотрели 5 основных гипотез, на основании которых сделали определённые выводы, и в зависимости от отвержения/ не отвержения $H_0$ сделали выводы о влиянии независимых признаков на целевые, а также о внутренних взаимосвязях.
 
 После чего, мы приступили к самому сладкому этапу - создание новых признаков и машинное обучение.
 
 # 5. Создание признаков и машинное обучение
----
+
 
 При помощи моделей градиентого бустинга попытаемся решить задачу классификации стран на группы (Lower middle income, Upper middle income, Low income, High income), а также задачу регрессии для предсказания индекса HDI. Мы будем применять методы анализа текстов для работы с признаком "notes", который состоит из кратких новостных сводок.
 
